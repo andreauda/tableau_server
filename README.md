@@ -1,6 +1,5 @@
-# Tableau Server
-Retrieving Tableau Server Information. Customized Admin Views
+# Tableau Server - Customized Admin Views
+Retrieving Tableau Server Information via Postgres. 
 
-## Working in progress
-This repo is in progress, please, check the link to see a preview.
+## Tableau Public
 https://public.tableau.com/app/profile/andrea.uda 
